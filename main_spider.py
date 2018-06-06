@@ -1,5 +1,5 @@
 #coding:utf-8
-#简单的豆瓣爬虫程序，参考csdn:https://blog.csdn.net/csqazwsxedc/article/details/68498842
+#简单的豆瓣爬虫程序
 #Python2.7
 import requests
 from lxml import html
